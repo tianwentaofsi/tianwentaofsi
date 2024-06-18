@@ -20,26 +20,28 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"tianwentaofsi.github.io","root":"/tianwentaofsi/","images":"/tianwentaofsi/images","scheme":"Gemini","darkmode":false,"version":"8.20.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"copycode":{"enable":true,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":true,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"}}</script><script src="/tianwentaofsi/js/config.js"></script>
 
-    <meta name="description" content="Nothing but enthusiasm brightens up the endless years.">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Wentao Website">
-<meta property="og:url" content="https://tianwentaofsi.github.io/tianwentaofsi/archives/2024/index.html">
+    <meta name="description" content="Stata系列 基于Stata的数据分析流程 实证分析中多重共线性问题 内生性处理思路 初识面板数据 【实证小贴士】Stata之概率分布与抽样分布 【实证小贴士】Stata命令小结 【实证小贴士】Stata基础命令5—frames 【实证小贴士】Stata基础命令4-Ladder 【实证小贴士】Stata基础命令3—日期变量 【实证小贴士】Stata基础命令1">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Stata系列">
+<meta property="og:url" content="https://tianwentaofsi.github.io/tianwentaofsi/2023/04/05/Stata%E7%B3%BB%E5%88%97/index.html">
 <meta property="og:site_name" content="Wentao Website">
-<meta property="og:description" content="Nothing but enthusiasm brightens up the endless years.">
+<meta property="og:description" content="Stata系列 基于Stata的数据分析流程 实证分析中多重共线性问题 内生性处理思路 初识面板数据 【实证小贴士】Stata之概率分布与抽样分布 【实证小贴士】Stata命令小结 【实证小贴士】Stata基础命令5—frames 【实证小贴士】Stata基础命令4-Ladder 【实证小贴士】Stata基础命令3—日期变量 【实证小贴士】Stata基础命令1">
 <meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-04-04T16:00:00.000Z">
+<meta property="article:modified_time" content="2023-04-05T15:58:27.601Z">
 <meta property="article:author" content="Wentao Tian">
-<meta property="article:tag" content="Capital Market, Corporate Finance, Microeconomic">
+<meta property="article:tag" content="学习">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="https://tianwentaofsi.github.io/tianwentaofsi/archives/2024/">
+<link rel="canonical" href="https://tianwentaofsi.github.io/tianwentaofsi/2023/04/05/Stata%E7%B3%BB%E5%88%97/">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":false,"lang":"en","comments":"","permalink":"","path":"archives/2024/index.html","title":""}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://tianwentaofsi.github.io/tianwentaofsi/2023/04/05/Stata%E7%B3%BB%E5%88%97/","path":"2023/04/05/Stata系列/","title":"Stata系列"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>Archive | Wentao Website</title>
+<title>Stata系列 | Wentao Website</title>
   
 
 
@@ -72,7 +74,7 @@
 
     <a href="/tianwentaofsi/" class="brand" rel="start">
       <i class="logo-line"></i>
-      <h1 class="site-title">Wentao Website</h1>
+      <p class="site-title">Wentao Website</p>
       <i class="logo-line"></i>
     </a>
   </div>
@@ -98,7 +100,7 @@
   
   <aside class="sidebar">
 
-    <div class="sidebar-inner sidebar-overview-active">
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
       <ul class="sidebar-nav">
         <li class="sidebar-nav-toc">
           Table of Contents
@@ -111,6 +113,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Stata%E7%B3%BB%E5%88%97"><span class="nav-number">1.</span> <span class="nav-text">Stata系列</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -140,49 +143,147 @@
 
     </div>
 
-    <div class="main-inner archive posts-collapse">
+    <div class="main-inner post posts-expand">
 
 
   
-  
-  
-  <div class="post-block">
-    <div class="post-content">
-      <div class="collection-title">
-        <span class="collection-header">Um..! 12 posts in total. Keep on posting.</span>
-      </div>
 
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://tianwentaofsi.github.io/tianwentaofsi/2023/04/05/Stata%E7%B3%BB%E5%88%97/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/tianwentaofsi/images/avatar.gif">
+      <meta itemprop="name" content="Wentao Tian">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Wentao Website">
+      <meta itemprop="description" content="Nothing but enthusiasm brightens up the endless years.">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="Stata系列 | Wentao Website">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          Stata系列
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
       
-    <div class="collection-year">
-      <span class="collection-header">2024<span class="collection-year-count">1</span></span>
+
+      <time title="Created: 2023-04-05 00:00:00 / Modified: 23:58:27" itemprop="dateCreated datePublished" datetime="2023-04-05T00:00:00+08:00">2023-04-05</time>
+    </span>
+
+  
+    <span class="post-meta-item" title="Views" id="busuanzi_container_page_pv">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">Views: </span>
+      <span id="busuanzi_value_page_pv"></span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><h2 id="Stata系列"><a href="#Stata系列" class="headerlink" title="Stata系列"></a>Stata系列</h2><ul>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/SLn13jIyXvl0Yi_7nCb4Tw">基于Stata的数据分析流程</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/2GH8Oi-EBBJQQ87_pplTHw">实证分析中多重共线性问题</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/qD08AgIhCBbmR__Rd6ie9w">内生性处理思路</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s/ePxffna3drYLLFfOW0MQhg">初识面板数据</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486604&idx=1&sn=e29cbb41d98b6bb60feb4de56dc4b52d&chksm=fbcf7c6dccb8f57bb2f607318b31f62349ba355c90f608f058c42818a36a2a21afb354f93ea6&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata之概率分布与抽样分布</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486539&idx=1&sn=4e40ccdcf82c6ce9d922e36233bc7a1c&chksm=fbcf7caaccb8f5bcf8af4abb72e663461f849a68c35cbe575c863f3a391abec3352e2f9c5b73&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata命令小结</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486515&idx=1&sn=073761665abcb48004dd1b5d31d12989&chksm=fbcf7cd2ccb8f5c46ac19790c30e3240ab07de47667030b111c6ba3d719e980007f6a26e30a3&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令5—frames</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486469&idx=1&sn=cc533ed9b53493aa8effa3b7bf5382be&chksm=fbcf7ce4ccb8f5f2e256b202d66c3628bb86da1c8f2b75eb1dbefd1efbffef084c4b524d5733&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令4-Ladder</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486439&idx=1&sn=6d7f65c7e8bf1db2231b4757aa59325d&chksm=fbcf7b06ccb8f21013b085624c1b8b03ef0926786de454f2f494019057d2f4b9dad803a2d18a&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令3—日期变量</a></li>
+<li><a target="_blank" rel="noopener" href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486355&idx=1&sn=328c79677965b3bfcf3901cb4d4e5fad&chksm=fbcf7b72ccb8f2645e806b416b811303cfc705c0cd193f931a289e7f3ccc49bf8d8bdb22b344&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令1</a></li>
+</ul>
+
     </div>
 
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2024-06-18T17:44:58+08:00"
-              content="2024-06-18">
-          06-18
-        </time>
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="reward-container">
+  <div>Buy me a coffee</div>
+  <button>
+    Donate
+  </button>
+  <div class="post-reward">
+      <div>
+        <img src="/tianwentaofsi/images/wechatpay.png" alt="Wentao Tian WeChat Pay">
+        <span>WeChat Pay</span>
+      </div>
+      <div>
+        <img src="/tianwentaofsi/images/alipay.png" alt="Wentao Tian Alipay">
+        <span>Alipay</span>
       </div>
 
-      <div class="post-title">
-          <a class="post-title-link" href="/tianwentaofsi/2024/06/18/hello-world/" itemprop="url">
-            <span itemprop="name">Hello World</span>
-          </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-
-    </div>
   </div>
-  
-  
-  
+</div>
+
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>Post author:  </strong>Wentao Tian
+  </li>
+  <li class="post-copyright-link">
+      <strong>Post link: </strong>
+      <a href="https://tianwentaofsi.github.io/tianwentaofsi/2023/04/05/Stata%E7%B3%BB%E5%88%97/" title="Stata系列">https://tianwentaofsi.github.io/tianwentaofsi/2023/04/05/Stata系列/</a>
+  </li>
+  <li class="post-copyright-license">
+      <strong>Copyright Notice:  </strong>All articles in this blog are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> unless stating additionally.
+  </li>
+</ul>
+</div>
+
+          <div class="post-tags">
+              <a href="/tianwentaofsi/tags/%E5%AD%A6%E4%B9%A0/" rel="tag"># 学习</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/tianwentaofsi/2023/04/05/%E6%A0%A1%E5%9B%AD%E6%8C%87%E5%8D%97/" rel="prev" title="校园指南">
+                  <i class="fa fa-angle-left"></i> 校园指南
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/tianwentaofsi/2023/04/05/%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E7%B3%BB%E5%88%97/" rel="next" title="基金投资系列">
+                  基金投资系列 <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
 
 </div>
   </main>
