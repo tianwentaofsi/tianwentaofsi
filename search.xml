@@ -18,7 +18,7 @@
 </li>
 <li><p>微信号：tianwentaofsi</p>
 </li>
-<li><p>Email：<a href="mailto:&#x74;&#105;&#x61;&#x6e;&#119;&#x65;&#x6e;&#116;&#97;&#x6f;&#49;&#57;&#57;&#57;&#x40;&#49;&#54;&#x33;&#46;&#x63;&#x6f;&#x6d;">&#x74;&#105;&#x61;&#x6e;&#119;&#x65;&#x6e;&#116;&#97;&#x6f;&#49;&#57;&#57;&#57;&#x40;&#49;&#54;&#x33;&#46;&#x63;&#x6f;&#x6d;</a>、<a href="mailto:&#x74;&#105;&#x61;&#x6e;&#119;&#101;&#x6e;&#x74;&#x61;&#x6f;&#102;&#x73;&#x69;&#64;&#103;&#109;&#x61;&#105;&#108;&#46;&#x63;&#111;&#109;">&#x74;&#105;&#x61;&#x6e;&#119;&#101;&#x6e;&#x74;&#x61;&#x6f;&#102;&#x73;&#x69;&#64;&#103;&#109;&#x61;&#105;&#108;&#46;&#x63;&#111;&#109;</a></p>
+<li><p>Email：<a href="mailto:&#116;&#x69;&#97;&#x6e;&#119;&#101;&#110;&#116;&#97;&#x6f;&#x31;&#x39;&#x39;&#57;&#x40;&#49;&#54;&#51;&#x2e;&#99;&#111;&#x6d;">&#116;&#x69;&#97;&#x6e;&#119;&#101;&#110;&#116;&#97;&#x6f;&#x31;&#x39;&#x39;&#57;&#x40;&#49;&#54;&#51;&#x2e;&#99;&#111;&#x6d;</a>、<a href="mailto:&#x74;&#x69;&#97;&#110;&#x77;&#101;&#110;&#x74;&#97;&#x6f;&#x66;&#x73;&#x69;&#x40;&#x67;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;">&#x74;&#x69;&#97;&#110;&#x77;&#101;&#110;&#x74;&#97;&#x6f;&#x66;&#x73;&#x69;&#x40;&#x67;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#x6d;</a></p>
 </li>
 </ul>
 </li>
@@ -40,6 +40,31 @@
 ]]></content>
       <tags>
         <tag>Investment and Finance</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Python系列</title>
+    <url>/tianwentaofsi/2023/04/05/Python%E7%B3%BB%E5%88%97/</url>
+    <content><![CDATA[<h2 id="Python系列"><a href="#Python系列" class="headerlink" title="Python系列"></a>Python系列</h2><ul>
+<li><a href="https://mp.weixin.qq.com/s/VAxwOhrO7JM5FZV8rHG8mQ">【Python】软件安装</a></li>
+<li><a href="https://mp.weixin.qq.com/s/ZNx1LCSgVTkm8zVa9A-KEg">【Python】eg1—倒背如流</a></li>
+<li><a href="https://mp.weixin.qq.com/s/a110D7AtNJnDKPD0GrnU5w">【Python】eg2—词频统计</a></li>
+<li><a href="https://mp.weixin.qq.com/s/yzqpOiES2K2cHEzVeRS9mQ">【Python】eg3—关键词词云</a></li>
+<li><a href="https://mp.weixin.qq.com/s/K4bY6-47uNfM0gD7CH5IgA">【Python】eg4—小练习</a></li>
+<li><a href="https://mp.weixin.qq.com/s/AkSGR2Sz1_WW5tpSozovcQ">【Python】基础知识</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485388&idx=1&sn=63b477e1700db948390304328e2e345d&chksm=fbcf772dccb8fe3bd47f9aff758132b2f86b45079e4b5d9bf55fe12230af2901ffda172112d1&token=2022252563&lang=zh_CN#rd">【Python】语言程序设计笔记整理</a></li>
+<li><a href="https://mp.weixin.qq.com/s/n4De-o1J17KANmKs-N1jQw">【量化】小白到菜鸟的知识学习路线</a></li>
+<li><a href="https://mp.weixin.qq.com/s/6YLeuWL3SJdVLeVkNaUBjQ">一些感悟</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486751&idx=1&sn=e24ad7d9e5d137f7ee595c3a99cd0897&chksm=fbcf7dfeccb8f4e85fd2130c6b8b40ffa64eac97695375437e1461f2e66ae492df605acba523&token=2022252563&lang=zh_CN#rd">【Python最优化理论】线性规划</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485915&idx=1&sn=5c2706444fd826fa5ef13b8302243191&chksm=fbcf793accb8f02c3068d533dbb9c5115a5a0461556af12337ffc9aa910f5d9e23c6b0e870ee&token=2022252563&lang=zh_CN#rd">【Python爬虫】动态网页解析json格式—京东商品评论</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485749&idx=1&sn=f2007b7f18d0e0bbf5d2311b88dd36fc&chksm=fbcf79d4ccb8f0c2687147deccee84168e5c23806a8c653177732911868fcb502b1890bc9a8b&token=2022252563&lang=zh_CN#rd">【Python爬虫】作品赏析—行业网站排名</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485706&idx=1&sn=30d54c1cd769c463492ff26f31b2ea4c&chksm=fbcf79ebccb8f0fd9422a7ebba84af2a6af1952fbfdc66e340be03a97aa02f1b732538873c79&token=2022252563&lang=zh_CN#rd">【Python爬虫】Xpath豆瓣电影爬取</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485642&idx=1&sn=4cced1a4824b81507e743ba16dc8b4fb&chksm=fbcf782bccb8f13da2294e0f9337f37a21e551f31d921b0c68368d159bb400ce5b9c159d8822&token=2022252563&lang=zh_CN#rd">【Python爬虫】人大新闻网</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247484898&idx=1&sn=33dd516d09e5d1237dc4936ced7abdcc&chksm=fbcf7503ccb8fc15f27b1a7420575b8411d032d01b7f644abed5f7659428bb34e8eb3e4c9518&token=2022252563&lang=zh_CN#rd">【python办公自动化】批量发邮件</a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>学习</tag>
       </tags>
   </entry>
   <entry>
@@ -66,31 +91,6 @@
 ]]></content>
       <tags>
         <tag>Link</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Python系列</title>
-    <url>/tianwentaofsi/2023/04/05/Python%E7%B3%BB%E5%88%97/</url>
-    <content><![CDATA[<h2 id="Python系列"><a href="#Python系列" class="headerlink" title="Python系列"></a>Python系列</h2><ul>
-<li><a href="https://mp.weixin.qq.com/s/VAxwOhrO7JM5FZV8rHG8mQ">【Python】软件安装</a></li>
-<li><a href="https://mp.weixin.qq.com/s/ZNx1LCSgVTkm8zVa9A-KEg">【Python】eg1—倒背如流</a></li>
-<li><a href="https://mp.weixin.qq.com/s/a110D7AtNJnDKPD0GrnU5w">【Python】eg2—词频统计</a></li>
-<li><a href="https://mp.weixin.qq.com/s/yzqpOiES2K2cHEzVeRS9mQ">【Python】eg3—关键词词云</a></li>
-<li><a href="https://mp.weixin.qq.com/s/K4bY6-47uNfM0gD7CH5IgA">【Python】eg4—小练习</a></li>
-<li><a href="https://mp.weixin.qq.com/s/AkSGR2Sz1_WW5tpSozovcQ">【Python】基础知识</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485388&idx=1&sn=63b477e1700db948390304328e2e345d&chksm=fbcf772dccb8fe3bd47f9aff758132b2f86b45079e4b5d9bf55fe12230af2901ffda172112d1&token=2022252563&lang=zh_CN#rd">【Python】语言程序设计笔记整理</a></li>
-<li><a href="https://mp.weixin.qq.com/s/n4De-o1J17KANmKs-N1jQw">【量化】小白到菜鸟的知识学习路线</a></li>
-<li><a href="https://mp.weixin.qq.com/s/6YLeuWL3SJdVLeVkNaUBjQ">一些感悟</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486751&idx=1&sn=e24ad7d9e5d137f7ee595c3a99cd0897&chksm=fbcf7dfeccb8f4e85fd2130c6b8b40ffa64eac97695375437e1461f2e66ae492df605acba523&token=2022252563&lang=zh_CN#rd">【Python最优化理论】线性规划</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485915&idx=1&sn=5c2706444fd826fa5ef13b8302243191&chksm=fbcf793accb8f02c3068d533dbb9c5115a5a0461556af12337ffc9aa910f5d9e23c6b0e870ee&token=2022252563&lang=zh_CN#rd">【Python爬虫】动态网页解析json格式—京东商品评论</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485749&idx=1&sn=f2007b7f18d0e0bbf5d2311b88dd36fc&chksm=fbcf79d4ccb8f0c2687147deccee84168e5c23806a8c653177732911868fcb502b1890bc9a8b&token=2022252563&lang=zh_CN#rd">【Python爬虫】作品赏析—行业网站排名</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485706&idx=1&sn=30d54c1cd769c463492ff26f31b2ea4c&chksm=fbcf79ebccb8f0fd9422a7ebba84af2a6af1952fbfdc66e340be03a97aa02f1b732538873c79&token=2022252563&lang=zh_CN#rd">【Python爬虫】Xpath豆瓣电影爬取</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485642&idx=1&sn=4cced1a4824b81507e743ba16dc8b4fb&chksm=fbcf782bccb8f13da2294e0f9337f37a21e551f31d921b0c68368d159bb400ce5b9c159d8822&token=2022252563&lang=zh_CN#rd">【Python爬虫】人大新闻网</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247484898&idx=1&sn=33dd516d09e5d1237dc4936ced7abdcc&chksm=fbcf7503ccb8fc15f27b1a7420575b8411d032d01b7f644abed5f7659428bb34e8eb3e4c9518&token=2022252563&lang=zh_CN#rd">【python办公自动化】批量发邮件</a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>学习</tag>
       </tags>
   </entry>
   <entry>
@@ -141,25 +141,6 @@
       </tags>
   </entry>
   <entry>
-    <title>基金投资系列</title>
-    <url>/tianwentaofsi/2023/04/05/%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E7%B3%BB%E5%88%97/</url>
-    <content><![CDATA[<h2 id="基金投资系列"><a href="#基金投资系列" class="headerlink" title="基金投资系列"></a>基金投资系列</h2><ul>
-<li><a href="https://mp.weixin.qq.com/s/OKBw6kB9WfjNwiR9UxwCrQ">基金读书笔记1</a></li>
-<li><a href="https://mp.weixin.qq.com/s/_X8cnrEvHBjfc2KT0jWZ_g">基金招募书</a></li>
-<li><a href="https://mp.weixin.qq.com/s/3FtVmKvdo_ycKLFCxW4J8w">基金名词解释</a></li>
-<li><a href="https://mp.weixin.qq.com/s/Q8y8pxm1lgj2N1aDPjHxug">基金挑选</a></li>
-<li><a href="https://mp.weixin.qq.com/s/XTRfvZD2gyeWmiwSs97AxQ">基金组合投资</a></li>
-<li><a href="https://mp.weixin.qq.com/s/jNb6Qcl4XG7apRdpyGOiWw">常见基金问题总结</a></li>
-<li><a href="https://mp.weixin.qq.com/s/a5aDownUNfBvBIu6vqcnMQ">基金择时</a></li>
-<li><a href="https://mp.weixin.qq.com/s/pOotDlVNCDn9uwy3dCgQAQ">市盈率、市净率、利润增长率和收益率关系</a></li>
-<li><a href="https://mp.weixin.qq.com/s/xNMm56c1sSf7Ih_IIGR2ew">生活理财常用网址</a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>学习 投资</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>习题参考资料</title>
     <url>/tianwentaofsi/2023/04/28/%E4%B9%A0%E9%A2%98%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99/</url>
     <content><![CDATA[<blockquote>
@@ -205,6 +186,25 @@
       </tags>
   </entry>
   <entry>
+    <title>基金投资系列</title>
+    <url>/tianwentaofsi/2023/04/05/%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E7%B3%BB%E5%88%97/</url>
+    <content><![CDATA[<h2 id="基金投资系列"><a href="#基金投资系列" class="headerlink" title="基金投资系列"></a>基金投资系列</h2><ul>
+<li><a href="https://mp.weixin.qq.com/s/OKBw6kB9WfjNwiR9UxwCrQ">基金读书笔记1</a></li>
+<li><a href="https://mp.weixin.qq.com/s/_X8cnrEvHBjfc2KT0jWZ_g">基金招募书</a></li>
+<li><a href="https://mp.weixin.qq.com/s/3FtVmKvdo_ycKLFCxW4J8w">基金名词解释</a></li>
+<li><a href="https://mp.weixin.qq.com/s/Q8y8pxm1lgj2N1aDPjHxug">基金挑选</a></li>
+<li><a href="https://mp.weixin.qq.com/s/XTRfvZD2gyeWmiwSs97AxQ">基金组合投资</a></li>
+<li><a href="https://mp.weixin.qq.com/s/jNb6Qcl4XG7apRdpyGOiWw">常见基金问题总结</a></li>
+<li><a href="https://mp.weixin.qq.com/s/a5aDownUNfBvBIu6vqcnMQ">基金择时</a></li>
+<li><a href="https://mp.weixin.qq.com/s/pOotDlVNCDn9uwy3dCgQAQ">市盈率、市净率、利润增长率和收益率关系</a></li>
+<li><a href="https://mp.weixin.qq.com/s/xNMm56c1sSf7Ih_IIGR2ew">生活理财常用网址</a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>学习 投资</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>金融风险管理</title>
     <url>/tianwentaofsi/2023/03/30/%E9%87%91%E8%9E%8D%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/</url>
     <content><![CDATA[<h3 id="1-课件"><a href="#1-课件" class="headerlink" title="1. 课件"></a>1. 课件</h3><ul>
@@ -241,6 +241,7 @@
 <p>写在前面：本文大部分内容来源于学校官网或公众号推文内容，我把一些重要的资源链接进行了整理，便于日后遇到相关问题可直接找到相应内容进行浏览。有其他方面好的资源也欢迎大家在后台回复呀，推文会保持持续的更新~</p>
 </blockquote>
 <p>由于公众号对网址链接进行了设置，我把推文也放在博客上，同步更新，大家可点击阅读原文进行浏览，可一键直达相关内容。</p>
+<hr>
 <h2 id="关于学习"><a href="#关于学习" class="headerlink" title="关于学习"></a>关于学习</h2><ul>
 <li><p><a href="https://jwc.cueb.edu.cn/cms/search/searchResults.jsp">校历</a></p>
 <p>每学期上课安排及放假情况说明</p>
