@@ -18,7 +18,7 @@
 </li>
 <li><p>微信号：tianwentaofsi</p>
 </li>
-<li><p>Email：<a href="mailto:&#x74;&#105;&#97;&#x6e;&#x77;&#x65;&#110;&#x74;&#97;&#x6f;&#49;&#57;&#57;&#57;&#x40;&#x31;&#x36;&#51;&#46;&#x63;&#111;&#x6d;">&#x74;&#105;&#97;&#x6e;&#x77;&#x65;&#110;&#x74;&#97;&#x6f;&#49;&#57;&#57;&#57;&#x40;&#x31;&#x36;&#51;&#46;&#x63;&#111;&#x6d;</a>、<a href="mailto:&#116;&#105;&#97;&#110;&#x77;&#101;&#x6e;&#x74;&#97;&#x6f;&#102;&#x73;&#105;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#x6d;">&#116;&#105;&#97;&#110;&#x77;&#101;&#x6e;&#x74;&#97;&#x6f;&#102;&#x73;&#105;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#x6d;</a></p>
+<li><p>Email：<a href="mailto:&#x74;&#x69;&#97;&#x6e;&#x77;&#x65;&#110;&#116;&#97;&#x6f;&#49;&#57;&#57;&#57;&#64;&#49;&#54;&#51;&#x2e;&#99;&#111;&#109;">&#x74;&#x69;&#97;&#x6e;&#x77;&#x65;&#110;&#116;&#97;&#x6f;&#49;&#57;&#57;&#57;&#64;&#49;&#54;&#51;&#x2e;&#99;&#111;&#109;</a>、<a href="mailto:&#116;&#105;&#x61;&#110;&#x77;&#101;&#x6e;&#116;&#x61;&#x6f;&#x66;&#115;&#x69;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#116;&#105;&#x61;&#110;&#x77;&#101;&#x6e;&#116;&#x61;&#x6f;&#x66;&#115;&#x69;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#x6d;</a></p>
 </li>
 </ul>
 </li>
@@ -26,6 +26,33 @@
 ]]></content>
       <tags>
         <tag>Person</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Python系列</title>
+    <url>/tianwentaofsi/2023/10/05/Python%E7%B3%BB%E5%88%97/</url>
+    <content><![CDATA[<h2 id="Python系列"><a href="#Python系列" class="headerlink" title="Python系列"></a>Python系列</h2><span id="more"></span>
+
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/VAxwOhrO7JM5FZV8rHG8mQ">【Python】软件安装</a></li>
+<li><a href="https://mp.weixin.qq.com/s/ZNx1LCSgVTkm8zVa9A-KEg">【Python】eg1—倒背如流</a></li>
+<li><a href="https://mp.weixin.qq.com/s/a110D7AtNJnDKPD0GrnU5w">【Python】eg2—词频统计</a></li>
+<li><a href="https://mp.weixin.qq.com/s/yzqpOiES2K2cHEzVeRS9mQ">【Python】eg3—关键词词云</a></li>
+<li><a href="https://mp.weixin.qq.com/s/K4bY6-47uNfM0gD7CH5IgA">【Python】eg4—小练习</a></li>
+<li><a href="https://mp.weixin.qq.com/s/AkSGR2Sz1_WW5tpSozovcQ">【Python】基础知识</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485388&idx=1&sn=63b477e1700db948390304328e2e345d&chksm=fbcf772dccb8fe3bd47f9aff758132b2f86b45079e4b5d9bf55fe12230af2901ffda172112d1&token=2022252563&lang=zh_CN#rd">【Python】语言程序设计笔记整理</a></li>
+<li><a href="https://mp.weixin.qq.com/s/n4De-o1J17KANmKs-N1jQw">【量化】小白到菜鸟的知识学习路线</a></li>
+<li><a href="https://mp.weixin.qq.com/s/6YLeuWL3SJdVLeVkNaUBjQ">一些感悟</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486751&idx=1&sn=e24ad7d9e5d137f7ee595c3a99cd0897&chksm=fbcf7dfeccb8f4e85fd2130c6b8b40ffa64eac97695375437e1461f2e66ae492df605acba523&token=2022252563&lang=zh_CN#rd">【Python最优化理论】线性规划</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485915&idx=1&sn=5c2706444fd826fa5ef13b8302243191&chksm=fbcf793accb8f02c3068d533dbb9c5115a5a0461556af12337ffc9aa910f5d9e23c6b0e870ee&token=2022252563&lang=zh_CN#rd">【Python爬虫】动态网页解析json格式—京东商品评论</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485749&idx=1&sn=f2007b7f18d0e0bbf5d2311b88dd36fc&chksm=fbcf79d4ccb8f0c2687147deccee84168e5c23806a8c653177732911868fcb502b1890bc9a8b&token=2022252563&lang=zh_CN#rd">【Python爬虫】作品赏析—行业网站排名</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485706&idx=1&sn=30d54c1cd769c463492ff26f31b2ea4c&chksm=fbcf79ebccb8f0fd9422a7ebba84af2a6af1952fbfdc66e340be03a97aa02f1b732538873c79&token=2022252563&lang=zh_CN#rd">【Python爬虫】Xpath豆瓣电影爬取</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485642&idx=1&sn=4cced1a4824b81507e743ba16dc8b4fb&chksm=fbcf782bccb8f13da2294e0f9337f37a21e551f31d921b0c68368d159bb400ce5b9c159d8822&token=2022252563&lang=zh_CN#rd">【Python爬虫】人大新闻网</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247484898&idx=1&sn=33dd516d09e5d1237dc4936ced7abdcc&chksm=fbcf7503ccb8fc15f27b1a7420575b8411d032d01b7f644abed5f7659428bb34e8eb3e4c9518&token=2022252563&lang=zh_CN#rd">【python办公自动化】批量发邮件</a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>学习</tag>
       </tags>
   </entry>
   <entry>
@@ -55,30 +82,39 @@
       </tags>
   </entry>
   <entry>
-    <title>Python系列</title>
-    <url>/tianwentaofsi/2023/10/05/Python%E7%B3%BB%E5%88%97/</url>
-    <content><![CDATA[<h2 id="Python系列"><a href="#Python系列" class="headerlink" title="Python系列"></a>Python系列</h2><span id="more"></span>
+    <title>Investment and Finance</title>
+    <url>/tianwentaofsi/2024/06/01/Investment%20&amp;%20Finance/</url>
+    <content><![CDATA[<p><a href="https://mp.weixin.qq.com/s/PJwdY7QtQdpNW9JSs4DPYg">投资框架</a></p>
+<p><a href="http://www.tounali.com/index.html">投哪鲤</a></p>
+<p><a href="https://robo.datayes.com/">萝卜投研</a></p>
+<p><a href="https://www.xuetangx.com/course/cufe12021008352/16911711?channel=i.area.learn_title">财务报表分析：投资者视角</a></p>
+]]></content>
+      <tags>
+        <tag>Investment and Finance</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>基金投资系列</title>
+    <url>/tianwentaofsi/2023/09/05/%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E7%B3%BB%E5%88%97/</url>
+    <content><![CDATA[<h2 id="基金投资系列"><a href="#基金投资系列" class="headerlink" title="基金投资系列"></a>基金投资系列</h2><blockquote>
+<p>写在前面：本文主要汇总笔者当时初学基金时的部分笔记。</p>
+</blockquote>
+<span id="more"></span>
 
 <ul>
-<li><a href="https://mp.weixin.qq.com/s/VAxwOhrO7JM5FZV8rHG8mQ">【Python】软件安装</a></li>
-<li><a href="https://mp.weixin.qq.com/s/ZNx1LCSgVTkm8zVa9A-KEg">【Python】eg1—倒背如流</a></li>
-<li><a href="https://mp.weixin.qq.com/s/a110D7AtNJnDKPD0GrnU5w">【Python】eg2—词频统计</a></li>
-<li><a href="https://mp.weixin.qq.com/s/yzqpOiES2K2cHEzVeRS9mQ">【Python】eg3—关键词词云</a></li>
-<li><a href="https://mp.weixin.qq.com/s/K4bY6-47uNfM0gD7CH5IgA">【Python】eg4—小练习</a></li>
-<li><a href="https://mp.weixin.qq.com/s/AkSGR2Sz1_WW5tpSozovcQ">【Python】基础知识</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485388&idx=1&sn=63b477e1700db948390304328e2e345d&chksm=fbcf772dccb8fe3bd47f9aff758132b2f86b45079e4b5d9bf55fe12230af2901ffda172112d1&token=2022252563&lang=zh_CN#rd">【Python】语言程序设计笔记整理</a></li>
-<li><a href="https://mp.weixin.qq.com/s/n4De-o1J17KANmKs-N1jQw">【量化】小白到菜鸟的知识学习路线</a></li>
-<li><a href="https://mp.weixin.qq.com/s/6YLeuWL3SJdVLeVkNaUBjQ">一些感悟</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486751&idx=1&sn=e24ad7d9e5d137f7ee595c3a99cd0897&chksm=fbcf7dfeccb8f4e85fd2130c6b8b40ffa64eac97695375437e1461f2e66ae492df605acba523&token=2022252563&lang=zh_CN#rd">【Python最优化理论】线性规划</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485915&idx=1&sn=5c2706444fd826fa5ef13b8302243191&chksm=fbcf793accb8f02c3068d533dbb9c5115a5a0461556af12337ffc9aa910f5d9e23c6b0e870ee&token=2022252563&lang=zh_CN#rd">【Python爬虫】动态网页解析json格式—京东商品评论</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485749&idx=1&sn=f2007b7f18d0e0bbf5d2311b88dd36fc&chksm=fbcf79d4ccb8f0c2687147deccee84168e5c23806a8c653177732911868fcb502b1890bc9a8b&token=2022252563&lang=zh_CN#rd">【Python爬虫】作品赏析—行业网站排名</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485706&idx=1&sn=30d54c1cd769c463492ff26f31b2ea4c&chksm=fbcf79ebccb8f0fd9422a7ebba84af2a6af1952fbfdc66e340be03a97aa02f1b732538873c79&token=2022252563&lang=zh_CN#rd">【Python爬虫】Xpath豆瓣电影爬取</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485642&idx=1&sn=4cced1a4824b81507e743ba16dc8b4fb&chksm=fbcf782bccb8f13da2294e0f9337f37a21e551f31d921b0c68368d159bb400ce5b9c159d8822&token=2022252563&lang=zh_CN#rd">【Python爬虫】人大新闻网</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247484898&idx=1&sn=33dd516d09e5d1237dc4936ced7abdcc&chksm=fbcf7503ccb8fc15f27b1a7420575b8411d032d01b7f644abed5f7659428bb34e8eb3e4c9518&token=2022252563&lang=zh_CN#rd">【python办公自动化】批量发邮件</a></li>
+<li><a href="https://mp.weixin.qq.com/s/OKBw6kB9WfjNwiR9UxwCrQ">基金读书笔记1</a></li>
+<li><a href="https://mp.weixin.qq.com/s/_X8cnrEvHBjfc2KT0jWZ_g">基金招募书</a></li>
+<li><a href="https://mp.weixin.qq.com/s/3FtVmKvdo_ycKLFCxW4J8w">基金名词解释</a></li>
+<li><a href="https://mp.weixin.qq.com/s/Q8y8pxm1lgj2N1aDPjHxug">基金挑选</a></li>
+<li><a href="https://mp.weixin.qq.com/s/XTRfvZD2gyeWmiwSs97AxQ">基金组合投资</a></li>
+<li><a href="https://mp.weixin.qq.com/s/jNb6Qcl4XG7apRdpyGOiWw">常见基金问题总结</a></li>
+<li><a href="https://mp.weixin.qq.com/s/a5aDownUNfBvBIu6vqcnMQ">基金择时</a></li>
+<li><a href="https://mp.weixin.qq.com/s/pOotDlVNCDn9uwy3dCgQAQ">市盈率、市净率、利润增长率和收益率关系</a></li>
+<li><a href="https://mp.weixin.qq.com/s/xNMm56c1sSf7Ih_IIGR2ew">生活理财常用网址</a></li>
 </ul>
 ]]></content>
       <tags>
-        <tag>学习</tag>
+        <tag>投资</tag>
       </tags>
   </entry>
   <entry>
@@ -138,30 +174,6 @@
       </tags>
   </entry>
   <entry>
-    <title>基金投资系列</title>
-    <url>/tianwentaofsi/2023/09/05/%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E7%B3%BB%E5%88%97/</url>
-    <content><![CDATA[<h2 id="基金投资系列"><a href="#基金投资系列" class="headerlink" title="基金投资系列"></a>基金投资系列</h2><blockquote>
-<p>写在前面：本文主要汇总笔者当时初学基金时的部分笔记。</p>
-</blockquote>
-<span id="more"></span>
-
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/OKBw6kB9WfjNwiR9UxwCrQ">基金读书笔记1</a></li>
-<li><a href="https://mp.weixin.qq.com/s/_X8cnrEvHBjfc2KT0jWZ_g">基金招募书</a></li>
-<li><a href="https://mp.weixin.qq.com/s/3FtVmKvdo_ycKLFCxW4J8w">基金名词解释</a></li>
-<li><a href="https://mp.weixin.qq.com/s/Q8y8pxm1lgj2N1aDPjHxug">基金挑选</a></li>
-<li><a href="https://mp.weixin.qq.com/s/XTRfvZD2gyeWmiwSs97AxQ">基金组合投资</a></li>
-<li><a href="https://mp.weixin.qq.com/s/jNb6Qcl4XG7apRdpyGOiWw">常见基金问题总结</a></li>
-<li><a href="https://mp.weixin.qq.com/s/a5aDownUNfBvBIu6vqcnMQ">基金择时</a></li>
-<li><a href="https://mp.weixin.qq.com/s/pOotDlVNCDn9uwy3dCgQAQ">市盈率、市净率、利润增长率和收益率关系</a></li>
-<li><a href="https://mp.weixin.qq.com/s/xNMm56c1sSf7Ih_IIGR2ew">生活理财常用网址</a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>投资</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Stata系列</title>
     <url>/tianwentaofsi/2023/12/01/Stata%E7%B3%BB%E5%88%97/</url>
     <content><![CDATA[<h2 id="Stata系列"><a href="#Stata系列" class="headerlink" title="Stata系列"></a>Stata系列</h2><blockquote>
@@ -187,71 +199,6 @@
 ]]></content>
       <tags>
         <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>计量经济学系列</title>
-    <url>/tianwentaofsi/2023/12/18/%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%B3%BB%E5%88%97/</url>
-    <content><![CDATA[<h2 id="计量经济学系列"><a href="#计量经济学系列" class="headerlink" title="计量经济学系列"></a>计量经济学系列</h2><blockquote>
-<p>写在前面：本系列为笔者学习计量经济学时的总结，从数据角度看，主要包含截面数据、时间序列数据和面板数据分析方法；从内容角度看，主要包含数学推导和代码复现。</p>
-</blockquote>
-<span id="more"></span>
-
-<ul>
-<li><p><a href="https://mp.weixin.qq.com/s/iCENIbFRykOxKCwq9E3uWQ">基于方法论视角对计量模型的一些思考</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247487193&idx=1&sn=c46cafa4c8c831e0727347511cc64135&chksm=fbcf7e38ccb8f72e62c421c2ba12e32e3731f475a6455e15a19ebe00379fa8d83d68b1fe9e12&token=2022252563&lang=zh_CN#rd">【Python与计量】Small sample OLS estimate</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247487065&idx=1&sn=b1e72aada8e20ae977acf94c4cc5db06&chksm=fbcf7eb8ccb8f7aede754268d5aea33ec636ad208d4298fb9391691b6a13993b583bf638e65a&token=2022252563&lang=zh_CN#rd">【Python最优化理论】梯度下降法</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486786&idx=1&sn=0b3a5afca71f6068570c0a44f60c28cc&chksm=fbcf7da3ccb8f4b55945be202adb47dd3a8277b30a2be903800c64946bd05d9865e3910f739f&token=2022252563&lang=zh_CN#rd">【时间序列】ARCH、GARCH理论推导</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486682&idx=1&sn=b57984f100929bc46ee969b19d4a6069&chksm=fbcf7c3bccb8f52d8834367f33925a352472f5437b303bb0ad88cc7c4aae8e3ecb68e86bb195&token=2022252563&lang=zh_CN#rd">【Python】中心极限定理</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/O1-msCJaMbwDWk3JiLYjZw">【计量经济学】OLS常见推导</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485991&idx=1&sn=deb98901db5aee002b82a58304fe245b&chksm=fbcf7ac6ccb8f3d0e1db70865bd9616b662a2be39b16fbf050a2e7a0e4396b7e8ea2f83519e0&token=2022252563&lang=zh_CN#rd">【计量经济学】OLS性质推导和检验</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/ePxffna3drYLLFfOW0MQhg">初识面板数据</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/qPWe9EhynC8C4pmG8RHUag">计量经济学完整版总结</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247484794&idx=1&sn=f972eb71462a28ad9a451e9bd9880d9c&chksm=fbcf759bccb8fc8d01b7dbb619cb4e103ea57ee40dd102db6b6c8aa085276faaa0b397c63f93&token=2022252563&lang=zh_CN#rd">【个人总结】计量经济学3</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247484719&idx=1&sn=63c8316f3d7be72761a0072493831859&chksm=fbcf75ceccb8fcd84036a2c27665704cdbb251bd271c6741257e68086ab7836c4177c309b63d&token=2022252563&lang=zh_CN#rd">【个人总结】计量经济学2</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247484697&idx=1&sn=20a93ac3db5da0af981217dddf881c56&chksm=fbcf75f8ccb8fceec151eece6c155e0876a5611e98b4acee460adae2a4eb06d645a16fcb4a10&token=2022252563&lang=zh_CN#rd">【个人总结】计量经济学1</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/6fovRVvllrLNgJy7fnER-w">【计量经济学随笔】R^2理解</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/C3Cp_nC6MllUnN6o-9OeBw">【计量经济学随笔】FWL定理</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/FlSRV9lmkVFIJzrVCwvVNw">【计量经济学随笔】过原点回归</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/CW1o4VQL5EuerW5KeWLBZg">常见时间序列模型总结</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/k3_g5cRwtNfAiMZdnVaWHQ">如何设计一份计量经济学实验课教学计划？</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/kkMjR7YhJXSrmH-6gaV3nA">时序&#x2F;截面对面板回归，是否能得到估计系数</a></p>
-</li>
-<li><p><a href="https://mp.weixin.qq.com/s/9R-8KEqNXXBsz6_z-w0wcw">Endogeneity: A Review and Agenda</a></p>
-</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Investment and Finance</title>
-    <url>/tianwentaofsi/2024/06/01/Investment%20&amp;%20Finance/</url>
-    <content><![CDATA[<p><a href="https://mp.weixin.qq.com/s/PJwdY7QtQdpNW9JSs4DPYg">投资框架</a></p>
-<p><a href="http://www.tounali.com/index.html">投哪鲤</a></p>
-<p><a href="https://robo.datayes.com/">萝卜投研</a></p>
-<p><a href="https://www.xuetangx.com/course/cufe12021008352/16911711?channel=i.area.learn_title">财务报表分析：投资者视角</a></p>
-]]></content>
-      <tags>
-        <tag>Investment and Finance</tag>
       </tags>
   </entry>
   <entry>
@@ -352,6 +299,59 @@
 ]]></content>
       <tags>
         <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>计量经济学系列</title>
+    <url>/tianwentaofsi/2023/12/18/%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%B3%BB%E5%88%97/</url>
+    <content><![CDATA[<h2 id="计量经济学系列"><a href="#计量经济学系列" class="headerlink" title="计量经济学系列"></a>计量经济学系列</h2><blockquote>
+<p>写在前面：本系列为笔者学习计量经济学时的总结，从数据角度看，主要包含截面数据、时间序列数据和面板数据分析方法；从内容角度看，主要包含数学推导和代码复现。</p>
+</blockquote>
+<span id="more"></span>
+
+<ul>
+<li><p><a href="https://mp.weixin.qq.com/s/iCENIbFRykOxKCwq9E3uWQ">基于方法论视角对计量模型的一些思考</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247487193&idx=1&sn=c46cafa4c8c831e0727347511cc64135&chksm=fbcf7e38ccb8f72e62c421c2ba12e32e3731f475a6455e15a19ebe00379fa8d83d68b1fe9e12&token=2022252563&lang=zh_CN#rd">【Python与计量】Small sample OLS estimate</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247487065&idx=1&sn=b1e72aada8e20ae977acf94c4cc5db06&chksm=fbcf7eb8ccb8f7aede754268d5aea33ec636ad208d4298fb9391691b6a13993b583bf638e65a&token=2022252563&lang=zh_CN#rd">【Python最优化理论】梯度下降法</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486786&idx=1&sn=0b3a5afca71f6068570c0a44f60c28cc&chksm=fbcf7da3ccb8f4b55945be202adb47dd3a8277b30a2be903800c64946bd05d9865e3910f739f&token=2022252563&lang=zh_CN#rd">【时间序列】ARCH、GARCH理论推导</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486682&idx=1&sn=b57984f100929bc46ee969b19d4a6069&chksm=fbcf7c3bccb8f52d8834367f33925a352472f5437b303bb0ad88cc7c4aae8e3ecb68e86bb195&token=2022252563&lang=zh_CN#rd">【Python】中心极限定理</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/O1-msCJaMbwDWk3JiLYjZw">【计量经济学】OLS常见推导</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247485991&idx=1&sn=deb98901db5aee002b82a58304fe245b&chksm=fbcf7ac6ccb8f3d0e1db70865bd9616b662a2be39b16fbf050a2e7a0e4396b7e8ea2f83519e0&token=2022252563&lang=zh_CN#rd">【计量经济学】OLS性质推导和检验</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/ePxffna3drYLLFfOW0MQhg">初识面板数据</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/qPWe9EhynC8C4pmG8RHUag">计量经济学完整版总结</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247484794&idx=1&sn=f972eb71462a28ad9a451e9bd9880d9c&chksm=fbcf759bccb8fc8d01b7dbb619cb4e103ea57ee40dd102db6b6c8aa085276faaa0b397c63f93&token=2022252563&lang=zh_CN#rd">【个人总结】计量经济学3</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247484719&idx=1&sn=63c8316f3d7be72761a0072493831859&chksm=fbcf75ceccb8fcd84036a2c27665704cdbb251bd271c6741257e68086ab7836c4177c309b63d&token=2022252563&lang=zh_CN#rd">【个人总结】计量经济学2</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247484697&idx=1&sn=20a93ac3db5da0af981217dddf881c56&chksm=fbcf75f8ccb8fceec151eece6c155e0876a5611e98b4acee460adae2a4eb06d645a16fcb4a10&token=2022252563&lang=zh_CN#rd">【个人总结】计量经济学1</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/6fovRVvllrLNgJy7fnER-w">【计量经济学随笔】R^2理解</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/C3Cp_nC6MllUnN6o-9OeBw">【计量经济学随笔】FWL定理</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/FlSRV9lmkVFIJzrVCwvVNw">【计量经济学随笔】过原点回归</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/CW1o4VQL5EuerW5KeWLBZg">常见时间序列模型总结</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/k3_g5cRwtNfAiMZdnVaWHQ">如何设计一份计量经济学实验课教学计划？</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/kkMjR7YhJXSrmH-6gaV3nA">时序&#x2F;截面对面板回归，是否能得到估计系数</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/9R-8KEqNXXBsz6_z-w0wcw">Endogeneity: A Review and Agenda</a></p>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>学习</tag>
       </tags>
   </entry>
   <entry>
