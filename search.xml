@@ -4,7 +4,7 @@
     <title>About Me</title>
     <url>/tianwentaofsi/2024/06/19/About%20Me/</url>
     <content><![CDATA[<ul>
-<li><p><a href="http://sf.ruc.edu.cn/index.htm">中国人民大学财政金融学院博士生</a></p>
+<li><p><a href="http://sf.ruc.edu.cn/index.htm">中国人民大学财政金融学院准博士生</a></p>
 </li>
 <li><p>研究兴趣：公司金融、资本市场、实证微观计量</p>
 </li>
@@ -18,7 +18,7 @@
 </li>
 <li><p>微信号：tianwentaofsi</p>
 </li>
-<li><p>Email：<a href="mailto:&#x74;&#105;&#97;&#x6e;&#119;&#x65;&#x6e;&#116;&#x61;&#111;&#49;&#x39;&#57;&#57;&#64;&#49;&#x36;&#51;&#46;&#x63;&#111;&#x6d;">&#x74;&#105;&#97;&#x6e;&#119;&#x65;&#x6e;&#116;&#x61;&#111;&#49;&#x39;&#57;&#57;&#64;&#49;&#x36;&#51;&#46;&#x63;&#111;&#x6d;</a>、<a href="mailto:&#116;&#x69;&#x61;&#x6e;&#x77;&#101;&#110;&#x74;&#x61;&#111;&#102;&#x73;&#105;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#x6d;">&#116;&#x69;&#x61;&#x6e;&#x77;&#101;&#110;&#x74;&#x61;&#111;&#102;&#x73;&#105;&#64;&#x67;&#x6d;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#x6d;</a></p>
+<li><p>Email：<a href="mailto:&#x74;&#105;&#97;&#x6e;&#x77;&#x65;&#x6e;&#116;&#x61;&#111;&#x31;&#57;&#57;&#57;&#x40;&#x31;&#54;&#x33;&#x2e;&#99;&#x6f;&#x6d;">&#x74;&#105;&#97;&#x6e;&#x77;&#x65;&#x6e;&#116;&#x61;&#111;&#x31;&#57;&#57;&#57;&#x40;&#x31;&#54;&#x33;&#x2e;&#99;&#x6f;&#x6d;</a>、<a href="mailto:&#116;&#x69;&#x61;&#110;&#x77;&#101;&#x6e;&#x74;&#x61;&#111;&#x66;&#x73;&#105;&#64;&#x67;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#116;&#x69;&#x61;&#110;&#x77;&#101;&#x6e;&#x74;&#x61;&#111;&#x66;&#x73;&#105;&#64;&#x67;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a></p>
 </li>
 </ul>
 </li>
@@ -68,7 +68,7 @@
   </entry>
   <entry>
     <title>Python系列</title>
-    <url>/tianwentaofsi/2023/04/05/Python%E7%B3%BB%E5%88%97/</url>
+    <url>/tianwentaofsi/2023/10/05/Python%E7%B3%BB%E5%88%97/</url>
     <content><![CDATA[<h2 id="Python系列"><a href="#Python系列" class="headerlink" title="Python系列"></a>Python系列</h2><span id="more"></span>
 
 <ul>
@@ -94,8 +94,36 @@
       </tags>
   </entry>
   <entry>
+    <title>Stata系列</title>
+    <url>/tianwentaofsi/2023/12/01/Stata%E7%B3%BB%E5%88%97/</url>
+    <content><![CDATA[<h2 id="Stata系列"><a href="#Stata系列" class="headerlink" title="Stata系列"></a>Stata系列</h2><blockquote>
+<p>写在前面：本文主要汇总关于Stata使用的相推文，在跑实证时便于查找相关命令。</p>
+</blockquote>
+<span id="more"></span>
+
+<ul>
+<li><a href="https://mp.weixin.qq.com/s/P1rKHvf2g88srxesTmZU2g">Stata入门学习</a></li>
+<li><a href="https://mp.weixin.qq.com/s/4RICJ4jmyQI4LHqrQ53J7A">IV结果的导出</a></li>
+<li><a href="https://mp.weixin.qq.com/s/SLn13jIyXvl0Yi_7nCb4Tw">基于Stata的数据分析流程</a></li>
+<li><a href="https://mp.weixin.qq.com/s/2GH8Oi-EBBJQQ87_pplTHw">实证分析中多重共线性问题</a></li>
+<li><a href="https://mp.weixin.qq.com/s/qD08AgIhCBbmR__Rd6ie9w">内生性处理思路</a></li>
+<li><a href="https://mp.weixin.qq.com/s/ePxffna3drYLLFfOW0MQhg">初识面板数据</a></li>
+<li><a href="https://mp.weixin.qq.com/s/r3tYPCy7JPoeBukC6kaU2A">【实证小贴士】Stata模板：一键导出图表</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486604&idx=1&sn=e29cbb41d98b6bb60feb4de56dc4b52d&chksm=fbcf7c6dccb8f57bb2f607318b31f62349ba355c90f608f058c42818a36a2a21afb354f93ea6&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata之概率分布与抽样分布</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486539&idx=1&sn=4e40ccdcf82c6ce9d922e36233bc7a1c&chksm=fbcf7caaccb8f5bcf8af4abb72e663461f849a68c35cbe575c863f3a391abec3352e2f9c5b73&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata命令小结</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486515&idx=1&sn=073761665abcb48004dd1b5d31d12989&chksm=fbcf7cd2ccb8f5c46ac19790c30e3240ab07de47667030b111c6ba3d719e980007f6a26e30a3&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令5—frames</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486469&idx=1&sn=cc533ed9b53493aa8effa3b7bf5382be&chksm=fbcf7ce4ccb8f5f2e256b202d66c3628bb86da1c8f2b75eb1dbefd1efbffef084c4b524d5733&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令4-Ladder</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486439&idx=1&sn=6d7f65c7e8bf1db2231b4757aa59325d&chksm=fbcf7b06ccb8f21013b085624c1b8b03ef0926786de454f2f494019057d2f4b9dad803a2d18a&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令3—日期变量</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486355&idx=1&sn=328c79677965b3bfcf3901cb4d4e5fad&chksm=fbcf7b72ccb8f2645e806b416b811303cfc705c0cd193f931a289e7f3ccc49bf8d8bdb22b344&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令1</a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Research</title>
-    <url>/tianwentaofsi/2023/06/13/Research/</url>
+    <url>/tianwentaofsi/2024/06/18/Research/</url>
     <content><![CDATA[<p><img data-src="C:\Users\35030\AppData\Roaming\Typora\typora-user-images\image-20240619130429119.png" alt="image-20240619130429119"></p>
 <span id="more"></span>
 
@@ -132,10 +160,10 @@
 <li>雍红艳. 北京市教委项目, “传统文化视角下的家族企业代际传承模式研究”, 参与.</li>
 </ul>
 <h2 id="学术会议"><a href="#学术会议" class="headerlink" title="学术会议"></a>学术会议</h2><ul>
-<li>2023.10.25   2023 大数据与因果推断研讨班                                清华大学</li>
-<li>2023.10.20   中国数量经济学会 2023 年（杭州）年会	           中国数量经济学会</li>
-<li>2023.06.15   第一届中国公司金融夏季论坛                                  南开大学金融学院                                </li>
-<li>2023.08.05   第一届“面向实证研究的大数据处理与分析”            江西财经大学</li>
+<li>2023.10.25     大数据与因果推断研讨班2023                                清华大学</li>
+<li>2023.10.20     中国数量经济学会 2023 年（杭州）年会	           中国数量经济学会</li>
+<li>2023.06.15     第一届中国公司金融夏季论坛                                  南开大学金融学院                                </li>
+<li>2023.08.05     第一届“面向实证研究的大数据处理与分析”            江西财经大学</li>
 </ul>
 <h2 id="荣誉称号"><a href="#荣誉称号" class="headerlink" title="荣誉称号"></a>荣誉称号</h2><ul>
 <li>北京市优秀毕业生、北京市优秀学生干部、国家奖学金、大学生数学竞赛（非数学类）全国一等奖</li>
@@ -150,36 +178,8 @@
       </tags>
   </entry>
   <entry>
-    <title>Stata系列</title>
-    <url>/tianwentaofsi/2024/01/31/Stata%E7%B3%BB%E5%88%97/</url>
-    <content><![CDATA[<h2 id="Stata系列"><a href="#Stata系列" class="headerlink" title="Stata系列"></a>Stata系列</h2><blockquote>
-<p>写在前面：本文主要汇总关于Stata使用的相推文，在跑实证时便于查找相关命令。</p>
-</blockquote>
-<span id="more"></span>
-
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/P1rKHvf2g88srxesTmZU2g">Stata入门学习</a></li>
-<li><a href="https://mp.weixin.qq.com/s/4RICJ4jmyQI4LHqrQ53J7A">IV结果的导出</a></li>
-<li><a href="https://mp.weixin.qq.com/s/SLn13jIyXvl0Yi_7nCb4Tw">基于Stata的数据分析流程</a></li>
-<li><a href="https://mp.weixin.qq.com/s/2GH8Oi-EBBJQQ87_pplTHw">实证分析中多重共线性问题</a></li>
-<li><a href="https://mp.weixin.qq.com/s/qD08AgIhCBbmR__Rd6ie9w">内生性处理思路</a></li>
-<li><a href="https://mp.weixin.qq.com/s/ePxffna3drYLLFfOW0MQhg">初识面板数据</a></li>
-<li><a href="https://mp.weixin.qq.com/s/r3tYPCy7JPoeBukC6kaU2A">【实证小贴士】Stata模板：一键导出图表</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486604&idx=1&sn=e29cbb41d98b6bb60feb4de56dc4b52d&chksm=fbcf7c6dccb8f57bb2f607318b31f62349ba355c90f608f058c42818a36a2a21afb354f93ea6&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata之概率分布与抽样分布</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486539&idx=1&sn=4e40ccdcf82c6ce9d922e36233bc7a1c&chksm=fbcf7caaccb8f5bcf8af4abb72e663461f849a68c35cbe575c863f3a391abec3352e2f9c5b73&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata命令小结</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486515&idx=1&sn=073761665abcb48004dd1b5d31d12989&chksm=fbcf7cd2ccb8f5c46ac19790c30e3240ab07de47667030b111c6ba3d719e980007f6a26e30a3&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令5—frames</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486469&idx=1&sn=cc533ed9b53493aa8effa3b7bf5382be&chksm=fbcf7ce4ccb8f5f2e256b202d66c3628bb86da1c8f2b75eb1dbefd1efbffef084c4b524d5733&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令4-Ladder</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486439&idx=1&sn=6d7f65c7e8bf1db2231b4757aa59325d&chksm=fbcf7b06ccb8f21013b085624c1b8b03ef0926786de454f2f494019057d2f4b9dad803a2d18a&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令3—日期变量</a></li>
-<li><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTgzNzgzOA==&mid=2247486355&idx=1&sn=328c79677965b3bfcf3901cb4d4e5fad&chksm=fbcf7b72ccb8f2645e806b416b811303cfc705c0cd193f931a289e7f3ccc49bf8d8bdb22b344&token=2022252563&lang=zh_CN#rd">【实证小贴士】Stata基础命令1</a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>基金投资系列</title>
-    <url>/tianwentaofsi/2023/04/05/%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E7%B3%BB%E5%88%97/</url>
+    <url>/tianwentaofsi/2023/09/05/%E5%9F%BA%E9%87%91%E6%8A%95%E8%B5%84%E7%B3%BB%E5%88%97/</url>
     <content><![CDATA[<h2 id="基金投资系列"><a href="#基金投资系列" class="headerlink" title="基金投资系列"></a>基金投资系列</h2><blockquote>
 <p>写在前面：本文主要汇总笔者当时初学基金时的部分笔记。</p>
 </blockquote>
@@ -203,7 +203,7 @@
   </entry>
   <entry>
     <title>计量经济学系列</title>
-    <url>/tianwentaofsi/2024/02/18/%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%B3%BB%E5%88%97/</url>
+    <url>/tianwentaofsi/2023/12/18/%E8%AE%A1%E9%87%8F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%B3%BB%E5%88%97/</url>
     <content><![CDATA[<h2 id="计量经济学系列"><a href="#计量经济学系列" class="headerlink" title="计量经济学系列"></a>计量经济学系列</h2><blockquote>
 <p>写在前面：本系列为笔者学习计量经济学时的总结，从数据角度看，主要包含截面数据、时间序列数据和面板数据分析方法；从内容角度看，主要包含数学推导和代码复现。</p>
 </blockquote>
@@ -256,7 +256,7 @@
   </entry>
   <entry>
     <title>金融专业书籍与习题资料</title>
-    <url>/tianwentaofsi/2023/04/28/%E9%87%91%E8%9E%8D%E4%B8%93%E4%B8%9A%E4%B9%A6%E7%B1%8D%E4%B8%8E%E4%B9%A0%E9%A2%98%E8%B5%84%E6%96%99/</url>
+    <url>/tianwentaofsi/2024/04/28/%E9%87%91%E8%9E%8D%E4%B8%93%E4%B8%9A%E4%B9%A6%E7%B1%8D%E4%B8%8E%E4%B9%A0%E9%A2%98%E8%B5%84%E6%96%99/</url>
     <content><![CDATA[<blockquote>
 <p>说明：如下资料均源于互联网公开资料，如有侵权，可与笔者联系进行删除，资料仅供学习使用！</p>
 </blockquote>
@@ -286,8 +286,43 @@
       </tags>
   </entry>
   <entry>
+    <title>金融风险管理</title>
+    <url>/tianwentaofsi/2024/03/30/%E9%87%91%E8%9E%8D%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/</url>
+    <content><![CDATA[<blockquote>
+<p>写在前面：本推文主要汇总课程《金融风险管理》的课件、习题、案例和答疑内容。</p>
+</blockquote>
+<span id="more"></span>
+
+<h3 id="1-课件"><a href="#1-课件" class="headerlink" title="1. 课件"></a>1. 课件</h3><ul>
+<li><a href="https://wwlb.lanzout.com/b01307ckj?password=dgau">金融风险管理第二版课件</a></li>
+<li>密码：dgau</li>
+</ul>
+<h3 id="2-习题"><a href="#2-习题" class="headerlink" title="2. 习题"></a>2. 习题</h3><ul>
+<li><a href="https://wwb.lanzout.com/b0126i28d?password=fohr">金融风险管理习题</a></li>
+<li>密码：fohr</li>
+</ul>
+<h3 id="3-案例"><a href="#3-案例" class="headerlink" title="3. 案例"></a>3. 案例</h3><ul>
+<li><a href="https://mp.weixin.qq.com/s/grDfIE0tUuIwtrmjOMY6wA">案例一：波动率σ估计的四种方法</a></li>
+<li><a href="https://mp.weixin.qq.com/s/EdsQCJRw1owmrCdfvuqBng">案例二：历史模拟法和蒙特卡洛模拟法计算VaR</a></li>
+<li><a href="https://mp.weixin.qq.com/s/_FOzbO6F4V_WaHtUmKMvBQ">案例三：期望损失ES简介</a></li>
+<li><a href="https://mp.weixin.qq.com/s/rps_vBtDk6ULJ-W2CNjE0g">案例四：极值理论法计算VaR</a></li>
+<li><a href="https://mp.weixin.qq.com/s/6ywLXLv4CWIUkkWLk_sioA">案例五：外汇市场风险</a></li>
+<li><a href="https://mp.weixin.qq.com/s/VQmwmTwmWcrJo6gbHerB_g">案例六：利率风险度量及资本配置</a></li>
+<li><a href="https://mp.weixin.qq.com/s/Kir6N0ctCDitNHUtnsKROQ">案例七：KMV的计算——以2020年招商银行为例</a></li>
+<li><a href="https://mp.weixin.qq.com/s/nlLbMmegOkGV3XkHlsk9Qw">案例八：Python——投资组合风险VaR分解</a></li>
+<li><a href="https://mp.weixin.qq.com/s/9b71AhtUtedjR-IuUaGcsA">案例九：对角模型</a></li>
+</ul>
+<h3 id="4-答疑"><a href="#4-答疑" class="headerlink" title="4. 答疑"></a>4. 答疑</h3><ul>
+<li><a href="https://mp.weixin.qq.com/s/IRKJ7er81HGz18iiugkaOg">答疑1</a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>课程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>首经贸校园指南</title>
-    <url>/tianwentaofsi/2024/06/13/%E9%A6%96%E7%BB%8F%E8%B4%B8%E6%A0%A1%E5%9B%AD%E6%8C%87%E5%8D%97/</url>
+    <url>/tianwentaofsi/2021/09/01/%E9%A6%96%E7%BB%8F%E8%B4%B8%E6%A0%A1%E5%9B%AD%E6%8C%87%E5%8D%97/</url>
     <content><![CDATA[<blockquote>
 <p>写在前面：本文大部分内容来源于学校官网或公众号推文内容，我把一些重要的资源链接进行了整理，便于日后遇到相关问题可直接找到相应内容进行浏览。有其他方面好的资源也欢迎大家在后台回复呀，推文会保持持续的更新~</p>
 </blockquote>
@@ -352,39 +387,6 @@
 ]]></content>
       <tags>
         <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>金融风险管理</title>
-    <url>/tianwentaofsi/2023/03/30/%E9%87%91%E8%9E%8D%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86/</url>
-    <content><![CDATA[<blockquote>
-<p>写在前面：本推文主要汇总课程《金融风险管理》的课件、习题、案例和答疑内容。</p>
-</blockquote>
-<h3 id="1-课件"><a href="#1-课件" class="headerlink" title="1. 课件"></a>1. 课件</h3><ul>
-<li><a href="https://wwlb.lanzout.com/b01307ckj?password=dgau">金融风险管理第二版课件</a></li>
-<li>密码：dgau</li>
-</ul>
-<h3 id="2-习题"><a href="#2-习题" class="headerlink" title="2. 习题"></a>2. 习题</h3><ul>
-<li><a href="https://wwb.lanzout.com/b0126i28d?password=fohr">金融风险管理习题</a></li>
-<li>密码：fohr</li>
-</ul>
-<h3 id="3-案例"><a href="#3-案例" class="headerlink" title="3. 案例"></a>3. 案例</h3><ul>
-<li><a href="https://mp.weixin.qq.com/s/grDfIE0tUuIwtrmjOMY6wA">案例一：波动率σ估计的四种方法</a></li>
-<li><a href="https://mp.weixin.qq.com/s/EdsQCJRw1owmrCdfvuqBng">案例二：历史模拟法和蒙特卡洛模拟法计算VaR</a></li>
-<li><a href="https://mp.weixin.qq.com/s/_FOzbO6F4V_WaHtUmKMvBQ">案例三：期望损失ES简介</a></li>
-<li><a href="https://mp.weixin.qq.com/s/rps_vBtDk6ULJ-W2CNjE0g">案例四：极值理论法计算VaR</a></li>
-<li><a href="https://mp.weixin.qq.com/s/6ywLXLv4CWIUkkWLk_sioA">案例五：外汇市场风险</a></li>
-<li><a href="https://mp.weixin.qq.com/s/VQmwmTwmWcrJo6gbHerB_g">案例六：利率风险度量及资本配置</a></li>
-<li><a href="https://mp.weixin.qq.com/s/Kir6N0ctCDitNHUtnsKROQ">案例七：KMV的计算——以2020年招商银行为例</a></li>
-<li><a href="https://mp.weixin.qq.com/s/nlLbMmegOkGV3XkHlsk9Qw">案例八：Python——投资组合风险VaR分解</a></li>
-<li><a href="https://mp.weixin.qq.com/s/9b71AhtUtedjR-IuUaGcsA">案例九：对角模型</a></li>
-</ul>
-<h3 id="4-答疑"><a href="#4-答疑" class="headerlink" title="4. 答疑"></a>4. 答疑</h3><ul>
-<li><a href="https://mp.weixin.qq.com/s/IRKJ7er81HGz18iiugkaOg">答疑1</a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>课程</tag>
       </tags>
   </entry>
 </search>
